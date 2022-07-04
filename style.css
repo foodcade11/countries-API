@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+  background-color: rgb(190, 209, 231); 
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 20%;
+}
+
+form{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 500px;
+    margin-left: 30%;
+
+}
+form input{
+    font-size: 20px;
+    width: 250px;
+    padding: 10px;
+    border: 1px solid seagreen;
+    border-radius: 20px;
+    
+
+}
+
+button{
+  background-color: seagreen;
+  padding: 15px ;
+  margin-left: 10px;
+  border: 1px solid seagreen;
+    border-radius: 20px;
+    cursor: pointer;
+    
+
+
+}
